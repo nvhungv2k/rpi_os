@@ -20,6 +20,7 @@ hob-image-*.bb
 !meta-yocto
 !meta-yocto-bsp
 !meta-yocto-imported
+!meta-hos
 /documentation/*/eclipse/
 /documentation/*/*.html
 /documentation/*/*.pdf
